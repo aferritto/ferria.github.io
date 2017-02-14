@@ -1,1 +1,2 @@
-<img align="center" src="img/FinalLarge.png" alt="Path Pointer RPI Logo">
+{: .center}
+![Path Pointer RPI Logo](img/FinalLarge.png)
