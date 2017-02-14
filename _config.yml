@@ -1,6 +1,7 @@
 ---
 theme: jekyll-theme-cayman
 title: Path Pointer RPI
+markdown: kramdown
 ---
 
 {% include css/style.css %}
